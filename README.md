@@ -8,8 +8,7 @@ Databse used in this project is SQLite and name of database is address.db .
 
 You can find the screenshot of results of API calls after making API calls in screenshot directory.
 
-Directory tree:
-Address_Book:
+<b>Address_Book:</b>
   
   Screenshots : Contains screenshot of results in swagger GUI.
   
