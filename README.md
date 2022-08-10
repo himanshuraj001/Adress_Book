@@ -10,13 +10,13 @@ You can find the screenshot of results of API calls after making API calls in sc
 
 <b>Address_Book:</b>
   
-  Screenshots : Contains screenshot of results in swagger GUI.
+  <b>&#8594;</b> Screenshots : Contains screenshot of results in swagger GUI.
   
-  database.py : Contains SQLite connection and LocalSession setup.
+  <b>&#8594;</b>database.py : Contains SQLite connection and LocalSession setup.
   
-  models.py : contains Schema of Database with address table and column details.
+  <b>&#8594;</b>models.py : contains Schema of Database with address table and column details.
   
-  main.py : Contains all code and logic of all operations performed by API.
+  <b>&#8594;</b>main.py : Contains all code and logic of all operations performed by API.
 
 You can execute this file with command : uvicron main:app --reload
 within FASTAPI enviroment with SQlite3.
