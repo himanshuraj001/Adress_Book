@@ -18,5 +18,4 @@ You can find the screenshot of results of API calls after making API calls in sc
   
   <b> &#8594; </b>main.py : Contains all code and logic of all operations performed by API.
 
-You can execute this file with command : uvicron main:app --reload
-within FASTAPI enviroment with SQlite3.
+You can execute this file with command : uvicron main:app --reload within FASTAPI enviroment with SQlite3 in Adress_Book directory .
